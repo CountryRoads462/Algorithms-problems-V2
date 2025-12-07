@@ -1,4 +1,4 @@
-package yandex_handbook.basic_data_structures.array_elem_searching;
+package yandex_handbook.basic_data_structures.a_singly_linked_list.array_elem_searching;
 
 import java.util.HashMap;
 import java.util.Map;
